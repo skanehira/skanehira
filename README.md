@@ -1,33 +1,23 @@
-<img style="border-radius: 50%;" src="https://pbs.twimg.com/profile_images/1142704713156026368/qafj2_Vy_400x400.jpg" width="200px"></img>
-
 ## <img src="https://raw.githubusercontent.com/primer/octicons/master/icons/terminal-16.svg" width=16 /> CLI
-- [docui](https://github.com/skanehira/docui) - TUI Client tool for docker
-- [tson](https://github.com/skanehira/tson) - TUI json editor and viewer written in Go
-- [gjo](https://github.com/skanehira/gjo) - Small utility to create JSON objects
-- [code2img](https://github.com/skanehira/code2img) - Convert source code to image
-- [gtran](https://github.com/skanehira/gtran) - Google translate CLI without any dependencies
-- [ff](https://github.com/skanehira/ff) - File manager written in Go
-- [fk](https://github.com/skanehira/fk) - Kill specific processes with fuzzy finder
-- [mcp](https://github.com/skanehira/mcp) - Copy multiple files using your editor
-- [xj](https://github.com/skanehira/xj) - Convert xml to JSON
-- [amzn-url-shorter](https://github.com/skanehira/amzn-url-shorter) - Generate short Amazon URL
-- [gorillasay](https://github.com/skanehira/gorillasay) - Like cawsay
-- [go-dockerveth](https://github.com/skanehira/go-dockerveth) - Show which docker containers are attached to which veth interfaces.
-- [diff-file](https://github.com/skanehira/diff-file) - Show specified file's git diff
-- [pst](https://github.com/skanehira/pst) - TUI process monitor written in Go
-- [gocui-component](https://github.com/skanehira/gocui-component) - gocui wiget component
-- [go-starwars](https://github.com/skanehira/go-starwars) - Play starwars in terminal
+|                                                                                         |                                                                                               |
+|-----------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
+| [docui](https://github.com/skanehira/docui) - TUI Client tool for docker                | [tson](https://github.com/skanehira/tson) - TUI json editor and viewer written in Go          |
+| [gjo](https://github.com/skanehira/gjo) - Small utility to create JSON objects          | [code2img](https://github.com/skanehira/code2img) - Convert source code to image              |
+| [gtran](https://github.com/skanehira/gtran) - Google translate CLI                      | [ff](https://github.com/skanehira/ff) - File manager written in Go                            |
+| [fk](https://github.com/skanehira/fk) - Kill specific processes with fuzzy finder       | [mcp](https://github.com/skanehira/mcp) - Copy multiple files using your editor               |
+| [xj](https://github.com/skanehira/xj) - Convert xml to JSON                             | [amzn-url-shorter](https://github.com/skanehira/amzn-url-shorter) - Generate short Amazon URL |
+| [gorillasay](https://github.com/skanehira/gorillasay) - Like cowsay                     | [go-dockerveth](https://github.com/skanehira/go-dockerveth) - Show container veth interfaces. |
+| [diff-file](https://github.com/skanehira/diff-file) - Show specified file's git diff    | [pst](https://github.com/skanehira/pst) - TUI process monitor written in Go                   |
+| [gocui-component](https://github.com/skanehira/gocui-component) - gocui wiget component | [go-starwars](https://github.com/skanehira/go-starwars) - Play starwars in terminal           |
 
 ## <img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/vim/vim-plain.svg" width=16 /> Vim plugins
-- [docker.vim](https://github.com/skanehira/docker.vim) - Manage docker images, containers in Vim
-- [translate.vim](https://github.com/skanehira/translate.vim) - Translate language plugin
-- [preview-markdown.vim](https://github.com/skanehira/preview-markdown.vim) - Preview markdown in vim termianl
-- [gql.vim](https://github.com/skanehira/gql.vim) - The Vim plugin that for call GraphQL API
-- [say.vim](https://github.com/skanehira/say.vim) - The Vim plugin that plays text as audio using `play`.
-- [docker-compose.vim](https://github.com/skanehira/docker-compose.vim) - The Vim plugin wrapping docker-compose
-- [google-map.vim](https://github.com/skanehira/google-map.vim) - Open google map on Vim
-- [vsession](https://github.com/skanehira/vsession) - Vim session manager
-- [badapple.vim](skanehira/badapple.vim) - Play Bad Apple in vim
+|                                                                                                            |                                                                                               |
+|------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
+|[docker.vim](https://github.com/skanehira/docker.vim) - Manage docker in Vim                                |[translate.vim](https://github.com/skanehira/translate.vim) - Translate language plugin        |
+|[preview-markdown.vim](https://github.com/skanehira/preview-markdown.vim) - Preview markdown in vim termianl|[gql.vim](https://github.com/skanehira/gql.vim) - Call GraphQL API                             |
+|[say.vim](https://github.com/skanehira/say.vim) - Plays text as audio using `play`                          |[docker-compose.vim](https://github.com/skanehira/docker-compose.vim) - Wrapping docker-compose|
+|[google-map.vim](https://github.com/skanehira/google-map.vim) - Open GoogleMap                              |[vsession](https://github.com/skanehira/vsession) - Session manager                            |
+|[badapple.vim](skanehira/badapple.vim) - Play Bad Apple in vim                                              |                                                                                               |
 
 ## Tech stack
 ### Programming languages
