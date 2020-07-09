@@ -47,7 +47,7 @@
 <a href="https://element.eleme.io/#/en-US"><img src="https://cdn.rawgit.com/ElemeFE/element/dev/element_logo.svg" width=40/></a> ElementUI
 <a href="https://www.electronjs.org/"><img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/electron/electron-original.svg" width=16 /></a> Electron
 
-### Middlware
+### Middleware
 <img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/docker/docker-original.svg" width=16 /> Docker
 <img src="https://raw.githubusercontent.com/docker/compose/master/logo.png" width=16 /> docker-compose
 <img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/mysql/mysql-original.svg" width=16 /> MySQL
@@ -63,6 +63,11 @@
 ### Books
 <a href="https://nextpublishing.jp/book/11839.html"><img src="https://nextpublishing.jp/wp-content/uploads/2020/05/N01186.jpg" width=150 /></a>
 <a href="https://gorilla0513.booth.pm/items/1513974"><img src="https://s2.booth.pm/dd220c7f-3883-4e61-92ee-9de29d0c71ea/i/1513974/494aba9c-ee50-444a-8261-66a07ad44d89_base_resized.jpg" width=150 /></a>
+
+### Meetup
+- [ゴリラ.vim](https://gorillavim.connpass.com/)
+- [Docker Meetup Tokyo](https://dockerjp.connpass.com/)
+- [golang.tokyo](https://golangtokyo.connpass.com/)
 
 ### Teacher
 - [Schoo](https://schoo.jp/teacher/2869)
