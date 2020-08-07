@@ -11,13 +11,14 @@
 | [gocui-component](https://github.com/skanehira/gocui-component) - gocui wiget component | [go-starwars](https://github.com/skanehira/go-starwars) - Play starwars in terminal           |
 
 ## <img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/vim/vim-plain.svg" width=16 /> Vim plugins
-|                                                                                                            |                                                                                               |
-|------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
-|[docker.vim](https://github.com/skanehira/docker.vim) - Manage docker in Vim                                |[translate.vim](https://github.com/skanehira/translate.vim) - Translate language plugin        |
-|[preview-markdown.vim](https://github.com/skanehira/preview-markdown.vim) - Preview markdown in vim termianl|[gql.vim](https://github.com/skanehira/gql.vim) - Call GraphQL API                             |
-|[say.vim](https://github.com/skanehira/say.vim) - Plays text as audio using `play`                          |[docker-compose.vim](https://github.com/skanehira/docker-compose.vim) - Wrapping docker-compose|
-|[google-map.vim](https://github.com/skanehira/google-map.vim) - Open GoogleMap                              |[vsession](https://github.com/skanehira/vsession) - Session manager                            |
-|[badapple.vim](skanehira/badapple.vim) - Play Bad Apple in vim                                              |                                                                                               |
+|                                                                                                              |                                                                                                 |
+|--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|
+| [docker.vim](https://github.com/skanehira/docker.vim) - Manage docker in Vim                                 | [translate.vim](https://github.com/skanehira/translate.vim) - Translate language plugin         |
+| [preview-markdown.vim](https://github.com/skanehira/preview-markdown.vim) - Preview markdown in vim termianl | [docker-compose.vim](https://github.com/skanehira/docker-compose.vim) - Wrapping docker-compose |
+| [code2img.vim](https://github.com/skanehira/code2img.vim) - generateing image of source code                 | [gql.vim](https://github.com/skanehira/gql.vim) - Call GraphQL API                              |
+| [google-map.vim](https://github.com/skanehira/google-map.vim) - Open GoogleMap                               | [vsession](https://github.com/skanehira/vsession) - Session manager                             |
+| [badapple.vim](skanehira/badapple.vim) - Play Bad Apple in vim                                               | [say.vim](https://github.com/skanehira/say.vim) - Plays text as audio using `play`              |
+
 
 ## Tech stack
 ### Programming languages
