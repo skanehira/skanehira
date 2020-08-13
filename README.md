@@ -1,8 +1,12 @@
+## <img src="https://image.flaticon.com/icons/svg/3306/3306281.svg" width=18/> Status
+<img src="https://github-readme-stats.vercel.app/api?username=skanehira&count_private=true" width="450"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skanehira&layout=compact" width="365"/>
+
 ## <img src="https://raw.githubusercontent.com/primer/octicons/master/icons/terminal-16.svg" width=16 /> CLI
 |                                                                                         |                                                                                               |
 |-----------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
 | [docui](https://github.com/skanehira/docui) - TUI Client tool for docker                | [tson](https://github.com/skanehira/tson) - TUI json editor and viewer written in Go          |
-| [gjo](https://github.com/skanehira/gjo) - Small utility to create JSON objects          | [code2img](https://github.com/skanehira/code2img) - Convert source code to image              |
+| [gjo](https://github.com/skanehira/gjo) - Small utility to create JSON objects          | [code2img](https://github.com/skanehira/code2img) - Generate image of source code             |
 | [gtran](https://github.com/skanehira/gtran) - Google translate CLI                      | [ff](https://github.com/skanehira/ff) - File manager written in Go                            |
 | [fk](https://github.com/skanehira/fk) - Kill specific processes with fuzzy finder       | [mcp](https://github.com/skanehira/mcp) - Copy multiple files using your editor               |
 | [xj](https://github.com/skanehira/xj) - Convert xml to JSON                             | [amzn-url-shorter](https://github.com/skanehira/amzn-url-shorter) - Generate short Amazon URL |
@@ -15,12 +19,11 @@
 |--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|
 | [docker.vim](https://github.com/skanehira/docker.vim) - Manage docker in Vim                                 | [translate.vim](https://github.com/skanehira/translate.vim) - Translate language plugin         |
 | [preview-markdown.vim](https://github.com/skanehira/preview-markdown.vim) - Preview markdown in vim termianl | [docker-compose.vim](https://github.com/skanehira/docker-compose.vim) - Wrapping docker-compose |
-| [code2img.vim](https://github.com/skanehira/code2img.vim) - generateing image of source code                 | [gql.vim](https://github.com/skanehira/gql.vim) - Call GraphQL API                              |
+| [code2img.vim](https://github.com/skanehira/code2img.vim) - Generateing image of source code                 | [gql.vim](https://github.com/skanehira/gql.vim) - Call GraphQL API                              |
 | [google-map.vim](https://github.com/skanehira/google-map.vim) - Open GoogleMap                               | [vsession](https://github.com/skanehira/vsession) - Session manager                             |
 | [badapple.vim](skanehira/badapple.vim) - Play Bad Apple in vim                                               | [say.vim](https://github.com/skanehira/say.vim) - Plays text as audio using `play`              |
 
-
-## Tech stack
+## <img src="https://image.flaticon.com/icons/svg/2591/2591910.svg" width=16/> Tech stack
 ### Programming languages
 <img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/go/go-original.svg" width=16 /> Go
 <img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/javascript/javascript-plain.svg" width=16 /> JavaScript
