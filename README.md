@@ -19,7 +19,7 @@
 |--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|
 | [docker.vim](https://github.com/skanehira/docker.vim) - Manage docker in Vim                                 | [translate.vim](https://github.com/skanehira/translate.vim) - Translate language plugin         |
 | [preview-markdown.vim](https://github.com/skanehira/preview-markdown.vim) - Preview markdown in vim termianl | [docker-compose.vim](https://github.com/skanehira/docker-compose.vim) - Wrapping docker-compose |
-| [code2img.vim](https://github.com/skanehira/code2img.vim) - Generateing image of source code                 | [gql.vim](https://github.com/skanehira/gql.vim) - Call GraphQL API                              |
+| [code2img.vim](https://github.com/skanehira/code2img.vim) - Generateing image of source code                 | [gh.vim](https://github.com/skanehira/gh.vim) - Vim plugin for GitHub                              |
 | [google-map.vim](https://github.com/skanehira/google-map.vim) - Open GoogleMap                               | [vsession](https://github.com/skanehira/vsession) - Session manager                             |
 | [badapple.vim](skanehira/badapple.vim) - Play Bad Apple in vim                                               | [say.vim](https://github.com/skanehira/say.vim) - Plays text as audio using `play`              |
 
