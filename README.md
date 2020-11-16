@@ -20,7 +20,7 @@
 | [preview-markdown.vim](https://github.com/skanehira/preview-markdown.vim) - Preview markdown in vim termianl | [docker-compose.vim](https://github.com/skanehira/docker-compose.vim) - Wrapping docker-compose |
 | [code2img.vim](https://github.com/skanehira/code2img.vim) - Generateing image of source code                 | [gh.vim](https://github.com/skanehira/gh.vim) - Vim/Neovim plugin for GitHub                              |
 | [gyazo.vim](https://github.com/skanehira/gyazo.vim) - Upload image to Gyazo                               | [getpr.vim](https://github.com/skanehira/getpr.vim) - get pull request link from GitHub                             |
-| [badapple.vim](skanehira/badapple.vim) - Play Bad Apple in vim                                               | [preview-uml.vim](https://github.com/skanehira/preview-uml.vim) - Plays text as audio using `play`              |
+| [badapple.vim](skanehira/badapple.vim) - Play Bad Apple in vim                                               | [preview-uml.vim](https://github.com/skanehira/preview-uml.vim) - Preview UML |
 
 ## <img src="https://image.flaticon.com/icons/svg/2591/2591910.svg" width=16/> Tech stack
 ### Programming languages
