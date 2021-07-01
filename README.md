@@ -75,7 +75,6 @@
 ### Meetup
 - [ゴリラ.vim](https://gorillavim.connpass.com/)
 - [Docker Meetup Tokyo](https://dockerjp.connpass.com/)
-- [golang.tokyo](https://golangtokyo.connpass.com/)
 
 ### Teacher
 - [Schoo](https://schoo.jp/teacher/2869)
