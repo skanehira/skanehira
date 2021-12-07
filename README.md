@@ -1,4 +1,4 @@
-## <img src="https://image.flaticon.com/icons/svg/3306/3306281.svg" width=18/> Status
+## <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/person-24.svg" width=18/> Status
 
 [![](https://raw.githubusercontent.com/skanehira/skanehira/master/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/skanehira/skanehira/master/profile-summary-card-output/default/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
@@ -27,7 +27,7 @@
 | [gyazo.vim](https://github.com/skanehira/gyazo.vim) - Upload image to Gyazo                               | [getpr.vim](https://github.com/skanehira/getpr.vim) - get pull request link from GitHub                             |
 | [badapple.vim](https://github.com/skanehira/badapple.vim) - Play Bad Apple in vim                                               | [preview-uml.vim](https://github.com/skanehira/preview-uml.vim) - Preview UML |
 
-## <img src="https://image.flaticon.com/icons/svg/2591/2591910.svg" width=16/> Tech stack
+## <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/stack-24.svg" width=16/> Tech stack
 ### Programming languages
 <img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/go/go-original.svg" width=16 /> Go
 <img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/javascript/javascript-plain.svg" width=16 /> JavaScript
