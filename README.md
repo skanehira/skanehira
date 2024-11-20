@@ -1,80 +1,71 @@
-## <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/person-24.svg" width=18/> Status
+## <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/person-24.svg" width=19/> Status
 
 [![](https://raw.githubusercontent.com/skanehira/skanehira/master/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/skanehira/skanehira/master/profile-summary-card-output/default/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/skanehira/skanehira/master/profile-summary-card-output/default/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/skanehira/skanehira/master/profile-summary-card-output/default/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/skanehira/skanehira/master/profile-summary-card-output/default/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
+## <img src="https://raw.githubusercontent.com/primer/octicons/master/icons/terminal-16.svg" width=19 /> Go
 
-## <img src="https://raw.githubusercontent.com/primer/octicons/master/icons/terminal-16.svg" width=16 /> CLI
-|                                                                                         |                                                                                               |
-|-----------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
-| [docui](https://github.com/skanehira/docui) - TUI Client tool for docker                | [tson](https://github.com/skanehira/tson) - TUI json editor and viewer written in Go          |
-| [gjo](https://github.com/skanehira/gjo) - Small utility to create JSON objects          | [code2img](https://github.com/skanehira/code2img) - Generate image of source code             |
-| [gtran](https://github.com/skanehira/gtran) - Google translate CLI                      | [ff](https://github.com/skanehira/ff) - File manager written in Go                            |
-| [fk](https://github.com/skanehira/fk) - Kill specific processes with fuzzy finder       | [mcp](https://github.com/skanehira/mcp) - Copy multiple files using your editor               |
-| [xj](https://github.com/skanehira/xj) - Convert xml to JSON                             | [amzn-url-shorter](https://github.com/skanehira/amzn-url-shorter) - Generate short Amazon URL |
-| [gorillasay](https://github.com/skanehira/gorillasay) - Like cowsay                     | [go-dockerveth](https://github.com/skanehira/go-dockerveth) - Show container veth interfaces. |
-| [diff-file](https://github.com/skanehira/diff-file) - Show specified file's git diff    | [pst](https://github.com/skanehira/pst) - TUI process monitor written in Go                   |
-| [gocui-component](https://github.com/skanehira/gocui-component) - gocui wiget component | [go-starwars](https://github.com/skanehira/go-starwars) - Play starwars in terminal           |
+<a href="https://github.com/skanehira/docui"><img src="https://gh-card.dev/repos/skanehira/docui.svg" width=420></a>
+<a href="https://github.com/skanehira/rtty"><img src="https://gh-card.dev/repos/skanehira/rtty.svg" width=420></a>
 
-## <img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/vim/vim-plain.svg" width=16 /> Vim plugins
-|                                                                                                              |                                                                                                 |
-|--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|
-| [docker.vim](https://github.com/skanehira/docker.vim) - Manage docker in Vim                                 | [translate.vim](https://github.com/skanehira/translate.vim) - Translate language plugin         |
-| [preview-markdown.vim](https://github.com/skanehira/preview-markdown.vim) - Preview markdown in vim termianl | [docker-compose.vim](https://github.com/skanehira/docker-compose.vim) - Wrapping docker-compose |
-| [code2img.vim](https://github.com/skanehira/code2img.vim) - Generateing image of source code                 | [gh.vim](https://github.com/skanehira/gh.vim) - Vim/Neovim plugin for GitHub                              |
-| [gyazo.vim](https://github.com/skanehira/gyazo.vim) - Upload image to Gyazo                               | [getpr.vim](https://github.com/skanehira/getpr.vim) - get pull request link from GitHub                             |
-| [badapple.vim](https://github.com/skanehira/badapple.vim) - Play Bad Apple in vim                                               | [preview-uml.vim](https://github.com/skanehira/preview-uml.vim) - Preview UML |
+<a href="https://github.com/skanehira/chibiwasm"><img src="https://gh-card.dev/repos/skanehira/chibiwasm.svg" width=420></a>
+<a href="https://github.com/skanehira/type-utilities-rs"><img src="https://gh-card.dev/repos/skanehira/type-utilities-rs.svg" width=420></a>
 
-## <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/stack-24.svg" width=16/> Tech stack
-### Programming languages
-<img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/go/go-original.svg" width=16 /> Go
-<img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/javascript/javascript-plain.svg" width=16 /> JavaScript
-<img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/typescript/typescript-plain.svg" width=16 /> TypeScript
-<img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/php/php-plain.svg" width=16 /> PHP
-<img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/java/java-plain.svg" width=16 /> Java
-<img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/vim/vim-plain.svg" width=16 /> Vim script
+<a href="https://github.com/skanehira/remonade"><img src="https://gh-card.dev/repos/skanehira/remonade.svg" width=420></a>
+<a href="https://github.com/skanehira/gjo"><img src="https://gh-card.dev/repos/skanehira/gjo.svg" width=420></a>
+
+<a href="https://github.com/skanehira/slack-reminder"><img src="https://gh-card.dev/repos/skanehira/slack-reminder.svg" width=420></a>
+<a href="https://github.com/skanehira/risp"><img src="https://gh-card.dev/repos/skanehira/risp.svg" width=420></a>
+
+<a href="https://github.com/skanehira/go-starwars"><img src="https://gh-card.dev/repos/skanehira/go-starwars.svg" width=420></a>
+<a href="https://github.com/skanehira/go-cli-template"><img src="https://gh-card.dev/repos/skanehira/go-cli-template.svg" width=420></a>
+
+## <img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/vim/vim-plain.svg" width=19 /> Vim plugins
+
+<a href="https://github.com/skanehira/denops-docker.vim"><img src="https://gh-card.dev/repos/skanehira/denops-docker.vim.svg" width=420></a>
+<a href="https://github.com/skanehira/k8s.vim"><img src="https://gh-card.dev/repos/skanehira/k8s.vim.svg" width=420></a>
+
+<a href="https://github.com/skanehira/translate.vim"><img src="https://gh-card.dev/repos/skanehira/translate.vim.svg" width=420></a>
+<a href="https://github.com/skanehira/denops-silicon.vim"><img src="https://gh-card.dev/repos/skanehira/denops-silicon.vim.svg" width=420></a>
+
+<a href="https://github.com/skanehira/badapple.vim"><img src="https://gh-card.dev/repos/skanehira/badapple.vim.svg" width=420></a>
+<a href="https://github.com/skanehira/christmas.vim"><img src="https://gh-card.dev/repos/skanehira/christmas.vim.svg" width=420></a>
+
+<a href="https://github.com/skanehira/wasm_runtime.vim"><img src="https://gh-card.dev/repos/skanehira/wasm_runtime.vim.svg" width=420></a>
+<a href="https://github.com/skanehira/diagonps.vim"><img src="https://gh-card.dev/repos/skanehira/diagonps.vim.svg" width=420></a>
+
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/denojs/denojs-original.svg" width=20 /> Deno
+
+<a href="https://github.com/skanehira/deno-silicon"><img src="https://gh-card.dev/repos/skanehira/deno-silicon.svg" width=420></a>
+<a href="https://github.com/skanehira/deno-clippy"><img src="https://gh-card.dev/repos/skanehira/deno-clippy.svg" width=420></a>
+
+### Language
+[![My Skills](https://skillicons.dev/icons?i=rust,go,typescript,javascript,wasm&perline=5)](https://skillicons.dev)
 
 ### Editor
-<img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/vim/vim-plain.svg" width=16 /> Vim
-<img src="https://www.autumn-color.com/wp-content/uploads/2018/04/vscode.png" width=16 /> Visual Studio Code
+[![My Skills](https://skillicons.dev/icons?i=neovim,vim,vscode&perline=5)](https://skillicons.dev)
 
 ### OS
-<img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/ubuntu/ubuntu-plain.svg" width=16 /> Ubuntu
-<img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/apple/apple-original.svg" width=16 /> Mac OS
-<img src="https://img.icons8.com/color/48/000000/windows-10.png" width=16/> Windows
+[![My Skills](https://skillicons.dev/icons?i=apple,ubuntu,windows&perline=5)](https://skillicons.dev)
 
 ### Frameworks
-[GORM](https://github.com/go-gorm/gorm)
-<a href="echo.labstack.com/"><img src="https://cdn.labstack.com/images/echo-logo.svg" width=40/></a> Echo
-<a href="https://gitea.com/xorm/xorm"><img src="https://gitea.com/repo-avatars/2038-b100c96af96c9c8134f5c9a44db55ec1" width=16/></a> xorm
-<a href="https://nuxtjs.org/"><img src="https://nuxtjs.org/meta_400.png" width=15/></a> Nuxt.js
-<a href="https://vuejs.org/"><img src="https://vuejs.org/images/logo.png" width=12/></a> Vue.js
-<a href="vuetifyjs.com/"><img src="https://cdn.vuetifyjs.com/images/logos/logo.svg" width=10/></a> Vuetify
-<a href="https://element.eleme.io/#/en-US"><img src="https://cdn.rawgit.com/ElemeFE/element/dev/element_logo.svg" width=40/></a> ElementUI
-<a href="https://www.electronjs.org/"><img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/electron/electron-original.svg" width=16 /></a> Electron
+[![My Skills](https://skillicons.dev/icons?i=react,vue,nuxtjs,vuetify,materialui&perline=5)](https://skillicons.dev)
 
-### Middleware
-<img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/docker/docker-original.svg" width=16 /> Docker
-<img src="https://raw.githubusercontent.com/docker/compose/master/logo.png" width=16 /> docker-compose
-<img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/mysql/mysql-original.svg" width=16 /> MySQL
-
-### Cloud
-<img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width=16 /> AWS
+### Infrastructure
+[![My Skills](https://skillicons.dev/icons?i=aws,docker,k8s,terraform,mysql,sqlite&perline=5)](https://skillicons.dev)
 
 ### Dev tools
-<img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/git/git-original.svg" width=16 /> Git
-<img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/github/github-original.svg" width=16 /> GitHub
-<img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/chrome/chrome-original.svg" width=16 /> Chrome
+[![My Skills](https://skillicons.dev/icons?i=git,github,vite,vitest,pnpm&perline=5)](https://skillicons.dev)
 
 ### Books
+<a href="https://skanehira.github.io/writing-a-wasm-runtime-in-rust/"><img src="https://github.com/skanehira/zenn-books/blob/main/books/writing-wasm-runtime-in-rust/cover.png?raw=true" width=150 height=212 /></a>
 <a href="https://nextpublishing.jp/book/11839.html"><img src="https://nextpublishing.jp/wp-content/uploads/2020/05/N01186.jpg" width=150 /></a>
-<a href="https://gorilla0513.booth.pm/items/1513974"><img src="https://s2.booth.pm/dd220c7f-3883-4e61-92ee-9de29d0c71ea/i/1513974/494aba9c-ee50-444a-8261-66a07ad44d89_base_resized.jpg" width=150 /></a>
 
 ### Meetup
 - [ゴリラ.vim](https://gorillavim.connpass.com/)
-- [Docker Meetup Tokyo](https://dockerjp.connpass.com/)
 
 ### Teacher
 - [Schoo](https://schoo.jp/teacher/2869)
