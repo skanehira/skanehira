@@ -6,7 +6,7 @@
 [![](https://raw.githubusercontent.com/skanehira/skanehira/master/profile-summary-card-output/default/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/skanehira/skanehira/master/profile-summary-card-output/default/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-## <img src="https://raw.githubusercontent.com/primer/octicons/master/icons/terminal-16.svg" width=19 /> Go
+## <img src="https://raw.githubusercontent.com/primer/octicons/master/icons/terminal-16.svg" width=19 /> CLI
 
 <a href="https://github.com/skanehira/docui"><img src="https://gh-card.dev/repos/skanehira/docui.svg" width=420></a>
 <a href="https://github.com/skanehira/rtty"><img src="https://gh-card.dev/repos/skanehira/rtty.svg" width=420></a>
