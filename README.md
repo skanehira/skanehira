@@ -12,15 +12,15 @@
 <a href="https://github.com/skanehira/rtty"><img src="https://gh-card.dev/repos/skanehira/rtty.svg" width=420></a>
 
 <a href="https://github.com/skanehira/chibiwasm"><img src="https://gh-card.dev/repos/skanehira/chibiwasm.svg" width=420></a>
-<a href="https://github.com/skanehira/type-utilities-rs"><img src="https://gh-card.dev/repos/skanehira/type-utilities-rs.svg" width=420></a>
+<a href="https://github.com/skanehira/ghost"><img src="https://gh-card.dev/repos/skanehira/ghost.svg" width=420></a>
 
 <a href="https://github.com/skanehira/remonade"><img src="https://gh-card.dev/repos/skanehira/remonade.svg" width=420></a>
 <a href="https://github.com/skanehira/gjo"><img src="https://gh-card.dev/repos/skanehira/gjo.svg" width=420></a>
 
 <a href="https://github.com/skanehira/slack-reminder"><img src="https://gh-card.dev/repos/skanehira/slack-reminder.svg" width=420></a>
-<a href="https://github.com/skanehira/risp"><img src="https://gh-card.dev/repos/skanehira/risp.svg" width=420></a>
+<a href="https://github.com/skanehira/mori"><img src="https://gh-card.dev/repos/skanehira/mori.svg" width=420></a>
 
-<a href="https://github.com/skanehira/go-starwars"><img src="https://gh-card.dev/repos/skanehira/go-starwars.svg" width=420></a>
+<a href="https://github.com/skanehira/rust-cli-template"><img src="https://gh-card.dev/repos/skanehira/rust-cli-template.svg" width=420></a>
 <a href="https://github.com/skanehira/go-cli-template"><img src="https://gh-card.dev/repos/skanehira/go-cli-template.svg" width=420></a>
 
 ## <img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/vim/vim-plain.svg" width=19 /> Vim plugins
