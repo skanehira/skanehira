@@ -62,6 +62,7 @@
 
 ### Books
 <a href="https://skanehira.github.io/writing-a-wasm-runtime-in-rust/"><img src="https://github.com/skanehira/zenn-books/blob/main/books/writing-wasm-runtime-in-rust/cover.png?raw=true" width=150 height=212 /></a>
+<a href="https://zenn.dev/skanehira/books/writing-a-tiny-linker-in-rust"><img src="https://github.com/skanehira/zenn-books/blob/main/books/writing-a-tiny-linker-in-rust/cover.png?raw=true" width=150 height=212 /></a>
 <a href="https://nextpublishing.jp/book/11839.html"><img src="https://nextpublishing.jp/wp-content/uploads/2020/05/N01186.jpg" width=150 /></a>
 
 ### Meetup
